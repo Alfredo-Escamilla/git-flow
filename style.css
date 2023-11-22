@@ -5,7 +5,7 @@
 
 /* add some color to the body 🎨 */
 body {  
-    background-color: blueviolet;
+    background-color: rgb(43, 89, 226);
     height: 100vh;
     display: flex;
     justify-content: center;
